@@ -1,0 +1,9 @@
+{
+  "name": "Spring Boot",
+  "language": "java",
+  "install": [],
+  "migrate": [],
+  "start": "PORT=8080 mvn spring-boot:run",
+  "url": "http://localhost:8080",
+  "readyPath": "/"
+}
